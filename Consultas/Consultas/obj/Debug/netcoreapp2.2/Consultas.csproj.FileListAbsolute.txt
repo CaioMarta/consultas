@@ -1,0 +1,24 @@
+C:\Users\20210888\source\repos\Consultas\Consultas\bin\Debug\netcoreapp2.2\Consultas.deps.json
+C:\Users\20210888\source\repos\Consultas\Consultas\bin\Debug\netcoreapp2.2\Consultas.runtimeconfig.json
+C:\Users\20210888\source\repos\Consultas\Consultas\bin\Debug\netcoreapp2.2\Consultas.runtimeconfig.dev.json
+C:\Users\20210888\source\repos\Consultas\Consultas\bin\Debug\netcoreapp2.2\Consultas.dll
+C:\Users\20210888\source\repos\Consultas\Consultas\bin\Debug\netcoreapp2.2\Consultas.pdb
+C:\Users\20210888\source\repos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.csprojAssemblyReference.cache
+C:\Users\20210888\source\repos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.csproj.CoreCompileInputs.cache
+C:\Users\20210888\source\repos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.AssemblyInfoInputs.cache
+C:\Users\20210888\source\repos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.AssemblyInfo.cs
+C:\Users\20210888\source\repos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.dll
+C:\Users\20210888\source\repos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.pdb
+D:\Programação Orientada a Objetos\Consultas\Consultas\bin\Debug\netcoreapp2.2\Consultas.deps.json
+D:\Programação Orientada a Objetos\Consultas\Consultas\bin\Debug\netcoreapp2.2\Consultas.runtimeconfig.json
+D:\Programação Orientada a Objetos\Consultas\Consultas\bin\Debug\netcoreapp2.2\Consultas.runtimeconfig.dev.json
+D:\Programação Orientada a Objetos\Consultas\Consultas\bin\Debug\netcoreapp2.2\Consultas.dll
+D:\Programação Orientada a Objetos\Consultas\Consultas\bin\Debug\netcoreapp2.2\Consultas.pdb
+D:\Programação Orientada a Objetos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.csproj.AssemblyReference.cache
+D:\Programação Orientada a Objetos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação Orientada a Objetos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.AssemblyInfoInputs.cache
+D:\Programação Orientada a Objetos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.AssemblyInfo.cs
+D:\Programação Orientada a Objetos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.csproj.CoreCompileInputs.cache
+D:\Programação Orientada a Objetos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.dll
+D:\Programação Orientada a Objetos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.pdb
+D:\Programação Orientada a Objetos\Consultas\Consultas\obj\Debug\netcoreapp2.2\Consultas.genruntimeconfig.cache
